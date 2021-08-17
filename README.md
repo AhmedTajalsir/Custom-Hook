@@ -6,3 +6,5 @@ custom React Hook useHttp => work with json Data:
   - It's for **Post** & **GET**
   
   1- import it on any component you want to use http Request
+  
+  2- You Should sent the URL and Your Function 
